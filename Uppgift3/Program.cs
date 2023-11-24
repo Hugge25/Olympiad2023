@@ -26,7 +26,6 @@ for(int i = 0; i < n; i++)
             {
                 Svar += c[j];
             }
-            //Console.Write(c[j]);
         }
 }
 

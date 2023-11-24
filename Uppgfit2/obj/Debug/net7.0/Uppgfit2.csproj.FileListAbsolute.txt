@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\VS Code\Uppgfit2\bin\Debug\net7.0\Uppgfit2.exe
+C:\Users\Admin\Documents\VS Code\Uppgfit2\bin\Debug\net7.0\Uppgfit2.deps.json
+C:\Users\Admin\Documents\VS Code\Uppgfit2\bin\Debug\net7.0\Uppgfit2.runtimeconfig.json
+C:\Users\Admin\Documents\VS Code\Uppgfit2\bin\Debug\net7.0\Uppgfit2.dll
+C:\Users\Admin\Documents\VS Code\Uppgfit2\bin\Debug\net7.0\Uppgfit2.pdb
+C:\Users\Admin\Documents\VS Code\Uppgfit2\obj\Debug\net7.0\Uppgfit2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\VS Code\Uppgfit2\obj\Debug\net7.0\Uppgfit2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\VS Code\Uppgfit2\obj\Debug\net7.0\Uppgfit2.AssemblyInfo.cs
+C:\Users\Admin\Documents\VS Code\Uppgfit2\obj\Debug\net7.0\Uppgfit2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\VS Code\Uppgfit2\obj\Debug\net7.0\Uppgfit2.dll
+C:\Users\Admin\Documents\VS Code\Uppgfit2\obj\Debug\net7.0\refint\Uppgfit2.dll
+C:\Users\Admin\Documents\VS Code\Uppgfit2\obj\Debug\net7.0\Uppgfit2.pdb
+C:\Users\Admin\Documents\VS Code\Uppgfit2\obj\Debug\net7.0\Uppgfit2.genruntimeconfig.cache
+C:\Users\Admin\Documents\VS Code\Uppgfit2\obj\Debug\net7.0\ref\Uppgfit2.dll
